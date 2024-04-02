@@ -1,2 +1,3 @@
 # Miscellaneous-in-C
-Programs in C
+
+prime.c -> Program to print first n prime numbers.
