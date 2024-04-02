@@ -3,7 +3,7 @@ Name		: MERLIN
 Date		: 02/04/2024
 Description	: Program to print n prime numbers
 Sample input	: 3
-Sample output	: 2, 3, 5
+Sample output	: 2, 3, 5,
  */
 
 //Prime number is a whole number greater than 1 that cannot be exactly divided by any whole number other than itself and 1
