@@ -12,3 +12,9 @@ pattern.c -> Say input be 5, Program to print a pattern of height 5 as shown bel
 3 4 5
 2 3 4 5
 1 2 3 4 5
+
+midnum.c -> To find the middle number of 3 entered number
+
+mxof3.c -> To find the maximum of 3 entered number
+
+revarray.c -> Program to reverse an array
