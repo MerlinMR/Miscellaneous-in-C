@@ -23,3 +23,5 @@ midnum.c -> To find the middle number of 3 entered number
 mxof3.c -> To find the maximum of 3 entered number
 
 revarray.c -> Program to reverse an array
+
+revstring.c -> Program to reverse a string
