@@ -25,3 +25,5 @@ mxof3.c -> To find the maximum of 3 entered number
 revarray.c -> Program to reverse an array
 
 revstring.c -> Program to reverse a string
+
+dectohex.c -> Program to convert decimal to hexadecimal
