@@ -27,3 +27,5 @@ revarray.c -> Program to reverse an array
 revstring.c -> Program to reverse a string
 
 dectohex.c -> Program to convert decimal to hexadecimal
+
+vowels.c -> Check if all vowels are present in a given string
